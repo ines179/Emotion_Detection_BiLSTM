@@ -1,4 +1,4 @@
-# Emotion_Detection_Model
+# Emotion_Detection_Model BiLSTM
 
 Model Deteksi Emosi di Media Sosial mengenai Perbincangan Telekomunikasi
 
