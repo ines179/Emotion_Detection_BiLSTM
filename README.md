@@ -7,6 +7,9 @@ Data yang digunakan merupakan data mengenai perbincangan telekomunikasi yang mec
 
 Label-label tersebut melibatkan angka, dengan ketentuan label (1) untuk ketakutan, label (2) untuk rasa jijik, label (3) untuk kemarahan, label (4) untuk terkejut, label (5) untuk kegembiraan, dan label (6) untuk kesedihan. Pelabelan data emosi dilakukan oleh peneliti dengan bantuan dua mahasiswa psikologi.
 
+## Data Balancing
+Penanganan Imbalanced Data dilakukan dengan menggunakan metode Borderline SMOTE
+
 ## Word Embeddings
 Penelitian ini menggunakan metode word embedding yaitu FastText Pre-Trained Model.
 
